@@ -129,3 +129,5 @@ textarea.wiki-edit { font-family: Cambria, Verdana, Serif; font-size: larger; }
 .contextual { font-size: 0.9em; font-family:verdana; }
 
 hr { background:#eee none repeat scroll 0% 0%; }
+
+div.issue { background: #FFFFEC; }
