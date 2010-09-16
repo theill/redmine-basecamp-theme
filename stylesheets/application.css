@@ -24,7 +24,9 @@ a:hover, a:active { color: #2A5685; }
 #top-menu li a { color: #999; font-weight: normal; padding:4px 5px; }
 #top-menu li a:hover { color: #fff; text-decoration: none; }
 #main { background: #EEEEEE; margin: 8px 24px 0px 24px; }
-#content, #main.nosidebar #content { background: #fff; border-right: 1px solid #bbb; border-bottom: 1px solid #bbb; width: 70%; overflow: auto; }
+#content, #main.nosidebar #content { background: #fff; border-right: 1px solid #bbb; border-bottom: 1px solid #bbb; overflow: auto; }
+#content { width: 70%; }
+#main.nosidebar #content { width: 100%; }
 #sidebar { width: 26%; }
 #footer { background-color:#EEEEEE; border: 0px; clear: left; color:#666666; font-size:9px; margin:4px 0 20px 20px; padding-bottom:15px; text-align:left; }
 #footer a:hover { background:#666666 none repeat scroll 0 0; color:#FFFFFF !important;}
