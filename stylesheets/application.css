@@ -45,6 +45,8 @@ h3, h4 { font-weight: normal; }
 
 #sidebar h3 { border-bottom:1px solid #DCDCDC; padding:6px 8px; }
 
+div.journal h4 { background-color: #EDF3FE; border-left: 3px solid #9FBFFA; padding: 10px;}
+
 /* Links */
 #sidebar a:hover { background-color:#003399; color:#FFFFFF; text-decoration: none;}
 
