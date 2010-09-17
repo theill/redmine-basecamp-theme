@@ -131,3 +131,4 @@ textarea.wiki-edit { font-family: Cambria, Verdana, Serif; font-size: larger; }
 hr { background:#eee none repeat scroll 0% 0%; }
 
 div.issue { background: #FFFFEC; }
+div.splitcontentleft ol li, div.splitcontentleft ul li, div.wiki ol li, div.wiki ul li { padding: 4px 0; }
