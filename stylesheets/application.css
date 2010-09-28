@@ -25,7 +25,7 @@ a:hover, a:active { color: #2A5685; }
 #top-menu li a { color: #999; font-weight: normal; padding:4px 5px; }
 #top-menu li a:hover { color: #fff; text-decoration: none; }
 #main { background: #EEEEEE; margin: 8px 24px 0px 24px; }
-#content, #main.nosidebar #content { background: #fff; border-right: 1px solid #bbb; border-bottom: 1px solid #bbb; overflow: auto; }
+#content, #main.nosidebar #content { background: #fff; border-right: 1px solid #bbb; border-bottom: 1px solid #bbb; overflow: auto; -moz-box-shadow: #bbb 1px 1px 2px; -webkit-box-shadow: 1px 1px 2px #bbb; }
 #content { width: 70%; }
 #main.nosidebar #content { width: auto; }
 #sidebar { width: 26%; }
