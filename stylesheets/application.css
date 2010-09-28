@@ -135,3 +135,5 @@ hr { background:#eee none repeat scroll 0% 0%; }
 div.issue { background: #FFFFEC; }
 div.splitcontentleft ol li, div.splitcontentleft ul li, div.wiki ol li, div.wiki ul li { padding: 4px 0; }
 div.wiki ul.toc li { padding: 0; }
+ol li ol li { list-style-type: lower-alpha; }
+ol li ol li ol li { list-style-type: lower-roman; }
