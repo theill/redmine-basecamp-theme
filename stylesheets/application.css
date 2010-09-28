@@ -1,11 +1,12 @@
 /**
- *  * Basecamp stylesheet, based on "alternate"
- *   * author: Peter Theill, Commanigy - http://commanigy.com
- *    * 
- *     * @2009-11-12
- *      *  - styling "password" fields as well with a simple border (similar to other fields)
- *       *    
- *        */
+ * Basecamp stylesheet, based on "alternate"
+ *
+ * author: Peter Theill, Commanigy - http://commanigy.com
+ *
+ * @2009-11-12
+ * - styling "password" fields as well with a simple border (similar to other fields)
+ *
+ */
 
 @import url(../../../stylesheets/application.css);
 
