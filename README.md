@@ -1,4 +1,4 @@
-A Basecame theme for REdmine.
+A Basecame theme for Redmine.
 
 Thanks to Henry Todd for patches.
 
