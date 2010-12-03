@@ -64,7 +64,7 @@ div.splitcontentleft h2 { background-color: transparent; padding: 0; margin: 20p
 /* Tables */
 table.list { border: none; }
 table.list th { background-color: #fff; }
-table.list tbody td, table.list tbody tr td { border-bottom: solid 1px #ddd; font-size: 11px; padding:4px 10px 4px 3px; }
+table.list tbody td, table.list tbody tr td, table.list tbody tr td.checkbox { border-bottom: solid 1px #ddd; font-size: 11px; padding:4px 10px 4px 3px; }
 table.list thead th {
 	border: none;
 	border-bottom:1px solid #999999;
