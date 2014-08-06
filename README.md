@@ -1,7 +1,6 @@
-A Basecame theme for Redmine.
+A Basecamp theme for Redmine.
 
-INSTALL
--------
+### INSTALL
 
 To install, just clone into your Redmine theme dir like so:
 
@@ -9,7 +8,6 @@ To install, just clone into your Redmine theme dir like so:
     $ git clone http://github.com/theill/redmine-basecamp-theme.git basecamp
 
 
-REDMINE 2.1
------------
+### REDMINE 2.1
 
 Styles are updated based on defect http://www.redmine.org/issues/11880
