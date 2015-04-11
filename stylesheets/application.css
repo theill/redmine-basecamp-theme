@@ -154,3 +154,8 @@ div.splitcontentleft ol li, div.splitcontentleft ul li, div.wiki ol li, div.wiki
 div.wiki ul.toc li { padding: 0; }
 ol li ol li { list-style-type: lower-alpha; }
 ol li ol li ol li { list-style-type: lower-roman; }
+
+/* Schedule Plugin */
+table.schedule_entry_cal ul {padding-left: 5px; padding-right: 5px;}
+table.schedule_entry_cal li { list-style-type: none; }
+table.schedule_entry_cal li div { padding: 4px; }
